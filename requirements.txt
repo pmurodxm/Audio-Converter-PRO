@@ -1,0 +1,4 @@
+pydub
+ttkbootstrap
+Pillow
+imageio-ffmpeg
