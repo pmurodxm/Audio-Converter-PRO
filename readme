@@ -1,0 +1,57 @@
+# 🎵 Audio Converter PRO (v1.0)
+
+Oddiy, tezkor va professional ko‘rinishga ega audio format konvertor.  
+WAV, MP3, FLAC, OGG, M4A formatlar orasida oson konvertatsiya qiladi.  
+Dastur Python + GUI (ttkbootstrap) yordamida yozilgan.
+
+---
+
+## ✨ Imkoniyatlar
+
+- ✅ WAV ↔ MP3 ↔ FLAC ↔ OGG ↔ M4A konvertatsiya  
+- ✅ MP3 eksporti 320kbps (sifatli)  
+- ✅ Chiroyli va professional GUI (dark theme)  
+- ✅ Fayl tanlash, saqlash papkasini belgilash  
+- ✅ Yangi nom berib saqlash  
+- ✅ Info oynasi (dasturchi va dastur haqida)  
+- ✅ ffmpeg avtomatik ishlaydi  
+- ✅ Windows uchun qulay
+
+---
+
+## 🖼️ Interfeys
+
+> GUI zamonaviy ko‘rinishda: tugmalar tartibli joylashgan, dark theme, qulay foydalanish.
+
+---
+
+## ⚙️ O‘rnatish
+
+### 1️⃣ Python o‘rnatilgan bo‘lishi kerak  
+Python 3.9+ tavsiya qilinadi  
+👉 https://www.python.org/downloads/
+
+---
+
+### 2️⃣ Repository’ni yuklab olish
+
+```bash
+git clone https://github.com/pmurodxm/Audio-Converter-PRO.git
+cd REPO_NAME
+
+pip install -r requirements.txt
+```
+### 3️⃣ Dastur ishga tushirish
+python app.py
+
+### 4️⃣ Kutubxonalarni yangilash
+pip install --upgrade pydub ttkbootstrap Pillow imageio-ffmpeg
+### 5️⃣ ffmpeg o‘rnatish (agar avtomatik ishlamasa)  
+ffmpeg — audio va video fayllarni qayta ishlash uchun zarur vosita.
+
+👨‍💻 Dasturchi
+
+Ism Familiya: Murod Primov
+Loyiha: Audio Converter PRO
+Versiya: 1.0
+
